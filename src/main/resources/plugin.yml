@@ -1,0 +1,9 @@
+name: SuperHome
+version: 1.0
+main: kyrla.Main
+api-version: 1.20
+commands:
+  home:
+    description: Телепортация домой
+  sethome:
+    description: Установить точку дома
